@@ -1,0 +1,11 @@
+               City     Score
+290  Sunshine Coast  0.067272
+77            Calvi  0.031260
+146          Ixtapa  0.030920
+224            Nice  0.023388
+46          Belfast  0.021854
+191          Majuro  0.021815
+124      Gold Coast  0.021547
+23            Aruba  0.021246
+51           Bhopal  0.020522
+75         Cagliari  0.019980

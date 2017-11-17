@@ -1,0 +1,11 @@
+               City     Score
+84             Cebu -0.006629
+43         Beauvais -0.000621
+333           Anapa  0.000000
+325       Reykjavik  0.000000
+136          Higuey  0.000000
+25         Asuncion  0.000000
+128  Guatemala city  0.000000
+268        Santiago  0.000000
+220       New Delhi  0.000000
+112      Dusseldorf  0.000000
