@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="100aaf75-bb81-4315-90d9-39c1404249e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../python_ecs/tensorflow_tuts.ipynb" afterPath="$PROJECT_DIR$/../python_ecs/tensorflow_tuts.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sentiment_top10cities.ipynb" afterPath="$PROJECT_DIR$/sentiment_top10cities.ipynb" />
-    </list>
+    <list default="true" id="100aaf75-bb81-4315-90d9-39c1404249e0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/sentiment_top10cities.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="16" />
+              <selected id="15" />
             </state>
           </provider>
         </entry>
@@ -47,8 +43,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="488" />
     <option name="y" value="22" />
-    <option name="width" value="1366" />
+    <option name="width" value="1264" />
     <option name="height" value="685" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -129,7 +126,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1366" height="685" extended-state="0" />
+    <frame x="488" y="22" width="1264" height="685" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22149302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -160,6 +157,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sentiment_top10cities.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sentiment_top10cities.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -238,7 +242,7 @@
     <entry file="file://$PROJECT_DIR$/sentiment_top10cities.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="9" />
         </state>
       </provider>
     </entry>
